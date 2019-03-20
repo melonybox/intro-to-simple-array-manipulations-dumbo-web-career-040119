@@ -1,4 +1,6 @@
-def 
+def using_unshift(array,item)
+  array.unshift(item)
+end
 
 def using_uniq(array)
   array.uniq
